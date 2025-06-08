@@ -12,7 +12,7 @@ export default function Home() {
   return (
     <>
       <h1>Profil</h1>
-      <Image src={profilePic} alt="Profil" width={300} height={300} />
+      <Image src={profilePic} alt="Profil" width={300} height={300} priority />
       <h1>Beranda</h1>
       <HeavyComponent />
       <h1>Home</h1>

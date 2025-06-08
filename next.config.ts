@@ -19,4 +19,5 @@ const nextConfig: NextConfig = {
   },
 };
 
+module.exports = withBundleAnalyzer({})
 export default withBundleAnalyzer(nextConfig);
