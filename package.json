@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@netlify/plugin-nextjs": "^5.11.2",
     "@next/bundle-analyzer": "^15.3.3",
     "@prisma/client": "^6.9.0",
     "cors": "^2.8.5",
