@@ -11,6 +11,9 @@ export default function Document() {
           type="font/ttf"
           crossOrigin="anonymous"
         />
+        <link rel="manifest" href="/manifest.json" />
+        <link rel="icon" href="/icons/icon-192x192.png" />
+        <meta name="theme-color" content="#ffffff" />
       </Head>
       <body>
         <Main />
